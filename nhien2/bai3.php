@@ -8,5 +8,6 @@ function timGiaTri($giaTri, $mang) {
     return -1;
 }
 $traiCay = ["Apple", "Banana", "Cherry"];
-echo timGiaTri("Banana", $traiCay); // Kết quả: 1
+echo timGiaTri("Banana", $traiCay); 
 ?>
+
